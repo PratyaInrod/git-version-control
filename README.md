@@ -17,4 +17,5 @@ Hello Five
 
 
 Sale Code : SALE
+New Sale : Code
 
